@@ -3,4 +3,4 @@ Python3 TCP/UDP Flood script
 
 Usage:
 
-    python3 flood.py
+    python3 tembus.py
